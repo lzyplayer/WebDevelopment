@@ -2,7 +2,7 @@
 
 ​                                                                                                                       3118311071 林之阳
 
-- JAVA   src/Main.java  to start
+- JAVA   src/fib.Main.java  to start
 
 - work on [github](https://github.com/lzyplayer/WebDevelopment)
 
@@ -22,12 +22,12 @@
   Fibonacci.of(200) == 280571172992510140037611932413038677189525
   ```
 
-- Fibonaci.java
+- fib.Fibonaci.java
 
   ```java
   import java.math.BigInteger;
   
-  public class Fibonaci {
+  public class fib.Fibonaci {
       public static BigInteger of(int num) {
           if (num == 1 || num == 2)
               return new BigInteger("1");
@@ -47,10 +47,10 @@
   
   ```
 
-- Main.java
+- fib.Main.java
 
   ```java
-  public class Main {
+  public class fib.Main {
   
       public static void main(String[] args) {
           System.out.println("Hello Fibonacci!");

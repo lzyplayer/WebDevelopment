@@ -1,3 +1,5 @@
+package fib;
+
 import java.math.BigInteger;
 
 public class Fibonaci {
