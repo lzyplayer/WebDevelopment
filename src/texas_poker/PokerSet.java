@@ -1,4 +1,4 @@
-package tex_poker;
+package texas_poker;
 
 import java.util.Arrays;
 
@@ -123,7 +123,7 @@ public class PokerSet {
                 return;
             }
         }
-        //
+        //1
         specCardNum=judgingNums[4];
         return;
     }

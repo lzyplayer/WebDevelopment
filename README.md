@@ -1,6 +1,12 @@
-## Fibonacci sequence 
+## 敏捷web开发作业项目 
 
-​                                                                                                                       3118311071 林之阳
+3118311071 林之阳
+
+目录
+
+[TOC]
+
+### Fibonacci sequence 
 
 - JAVA   src/fib.Main.java  to start
 
@@ -61,6 +67,15 @@
   }
   
   ```
+
+
+### Texas Poker
+
+- `./texas_poker/Main` to run test ，通过wapper包裹以达到题目要求效果
+
+- `./texas_poker/Judger.java-judgePoker`函数为判断主流程
+
+- 每组poker评价位于PokerSet的构造函数中，在输入时即计算
 
   
 
