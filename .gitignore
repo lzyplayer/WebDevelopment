@@ -1,3 +1,9 @@
-.idea/*
+.idea/
 workspaceJava.iml
+
 out/*
+src/helloSpring/.idea/
+src/helloSpring/.mvn/
+src/helloSpring/target
+src/helloSpring/gradle
+src/helloSpring/gradle*
