@@ -13,7 +13,7 @@ class List extends PureComponent {
                 },
                 {
                     id: 2,
-                    task: 'hit',
+                    task: 'awsl',
                     hide: false,
                     finish:false
                 }
